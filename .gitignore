@@ -1,0 +1,27 @@
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+**/.gradle/
+**/build/
+**/.run/
+**/node_modules/
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+.gradle/
+.run/
+out/
+bin/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.vscode/
+intellij/src/main/resources/gui/
+intellij/src/bin/
+intellij/bin/
+**/.vite
+### Mac OS ###
+.DS_Store
